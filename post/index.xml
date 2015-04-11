@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on E-handel</title>
-    <link>http://localhost:1313/e-handel/post/</link>
+    <link>/e-handel/post/</link>
     <description>Recent content in Posts on E-handel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
     <lastBuildDate>Sat, 11 Apr 2015 20:45:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/e-handel/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/e-handel/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>E-handel – säkerhet och risker</title>
-      <link>http://localhost:1313/e-handel/post/sakerhet/</link>
+      <link>/e-handel/post/sakerhet/</link>
       <pubDate>Sat, 11 Apr 2015 20:45:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/sakerhet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage10.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/sakerhet/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage10.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Det finns många sätt att använda e-handel på men många tvivlar på dess säkerhet.  E-handel har blivit mer och mer populärt varje år dem senaste tio åren. Det finns flera olika alternativ att betala via internet, till exempel Paypal, Bitcoin, Kortbetalning, och såklart direkt via banken.&lt;/p&gt;
@@ -42,15 +42,15 @@
     
     <item>
       <title>E-handelns framtid</title>
-      <link>http://localhost:1313/e-handel/post/framtid/</link>
+      <link>/e-handel/post/framtid/</link>
       <pubDate>Sat, 11 Apr 2015 20:45:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/framtid/</guid>
+      <guid>/e-handel/post/framtid/</guid>
       <description>&lt;p&gt;E-handeln blir bara större och större och mer och mer företag expanderar sin försäljning via internet. I början var det bara elektronik, böcker och kläder inom e-handeln men företag expendrarar och vi ser nu att varor som, bygg, intreding och mat säljs ökar inom e-handel.&lt;/p&gt;
 
 &lt;p&gt;Detta kommer påverka handeln på flera sätts Man tror att detaljhandelytan kommer minska och fler företag kommer att samordna sig inom e-handel, under de senaste 10 åren så har handeln förändras enormt pågrund av e-handels tillväxt och  är säkert ingen gentemot vad som kommer att förändras i framtiden.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/Diagram.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Källa: E-barometern&lt;/p&gt;
@@ -59,7 +59,7 @@
 
 &lt;p&gt;De mest gynnade E-handels branscherna just nu är som sagt böcker, elektronik och kläder. Konsumenter tycker om e-handeln just inom dessa branscher för att det är simpelt, snabbt, billgare  samt större utbud än i vanlig handel. Här kan  man se branchernas förändringsprocess inom e-handeln mellan 2011-2012, höga inom vissa brancher och lägre i andra.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram1.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/Diagram1.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Källa: E-barometer och SCB&lt;/p&gt;
@@ -72,7 +72,7 @@
 
 &lt;p&gt;HUI Research har gjort framtidsscenarier som presenterar tre olika scenarier som e-handelns framtid kan se ut.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram2.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/Diagram2.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Eftersom e-handel växer snabbare just nu än vad det någonsin gjort så är detta inte alls orimligt. Det kommer därtill utvecklas nya idéer inom teknik som kommer att föröka populäriteten ännu mer.&lt;/p&gt;
@@ -83,11 +83,11 @@
     
     <item>
       <title>4 expertutlåtanden om E-handelns problematik</title>
-      <link>http://localhost:1313/e-handel/post/expert/</link>
+      <link>/e-handel/post/expert/</link>
       <pubDate>Sat, 11 Apr 2015 20:45:16 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/expert/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage9.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/expert/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage9.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;I en intervju med fyra av Sveriges framgångsrika E-handel företagare fick alla ge svar på vad problematiken och vad förbättringspotentialen med dagens E-handel är. Alla ger sin synvinkel på vad deras uppfattning om E-handelns problematik är. Problem som inte nödvändigtvis kommer sätta stop för E-handeln men förhindrar den att blomstra.&lt;/p&gt;
@@ -121,11 +121,11 @@ Betallösningar har gått igenom många stora förändringar de senaste åren, o
     
     <item>
       <title>Amazon.com&#39;s idémaskin</title>
-      <link>http://localhost:1313/e-handel/post/amazon/</link>
+      <link>/e-handel/post/amazon/</link>
       <pubDate>Mon, 30 Mar 2015 22:44:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/amazon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage4.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/amazon/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage4.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Amazon.com startades som en webbsida som sålde endast böcker. Vad som började som en internetleverantör för &amp;ldquo;bok ugglor&amp;rdquo; eskalerade till ett gigantiskt utbud av allt en konsument kan tänka sig behöva. Går det att leverera på ett smidigt sätt så har Amazon det i en av deras lagerlokaler. Amazon erbjuder andra företag att sälja sina produkter på deras webbsida i utbyte mot en summa pengar. Det som gjort Amazon så framgångsrikt är VD:n Jeff Bezos. Jeff Bezos följer det berömda citatet &amp;ldquo;Kunden har alltid rätt&amp;rdquo; som en religion. Det sägs att under mötena med cheferna lämnar han en stol tom och säger &amp;ldquo;Här sitter kunden, den viktigaste personen i rummet.&amp;rdquo;&lt;/p&gt;
@@ -144,11 +144,11 @@ Betallösningar har gått igenom många stora förändringar de senaste åren, o
     
     <item>
       <title>E-handeln är en generationsfråga</title>
-      <link>http://localhost:1313/e-handel/post/generationsfraga/</link>
+      <link>/e-handel/post/generationsfraga/</link>
       <pubDate>Mon, 30 Mar 2015 22:32:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/generationsfraga/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage3.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/generationsfraga/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage3.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;För många personer är det svårt att få ihop livspusslet, och det gäller kanske framförallt barnfamiljer. Att kunna handla när det passar är det som flest konsumenter säger att de använder E-handel för. En tidig morgon på företaget Sendus förklarar Nicklas Moberg att dem mindre typer av affärer (fysiska) kommer slås ner av de större kedjorna, d.v.s. El-Giganten, Webbhallen och Clas Ohlsson. Alla dem här lite större magasinen tidningarna, som &amp;ldquo;PC för alla&amp;rdquo;, lägger ner sina papperskopior och kör bara på nätet. Så får man prenumerera så istället. Tidningsläsarna går ner, mer används på nätet.&lt;/p&gt;
@@ -169,11 +169,11 @@ Betallösningar har gått igenom många stora förändringar de senaste åren, o
     
     <item>
       <title>E-handeln ger bättre möjligheter för miljön</title>
-      <link>http://localhost:1313/e-handel/post/miljo/</link>
+      <link>/e-handel/post/miljo/</link>
       <pubDate>Mon, 30 Mar 2015 22:29:25 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/miljo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage5.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/miljo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage5.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;E handel är på stor framgång just nu. Mer och mer konsumenter börjar se fördelarna med att göra sina affärerar från internet från både lokala och internationella säljare. Företagen som säljer får en större marknad och mer kunder och vi konsumenter får bättre utbud och tillgång till säljare. Men det är inte bara positiva effekter med e-handel. Hur bra är e-handel egentligen för miljön? Detta beror på såklart vilken vinkel man ser det ifrån och vilken sorts e-handel man egentligen menar.&lt;/p&gt;
@@ -220,11 +220,11 @@ Det bästa svaret man kan ge på frågan om e-handel har någon negativ påverka
     
     <item>
       <title>De starka företagen syns via E-handeln</title>
-      <link>http://localhost:1313/e-handel/post/starka-foretag/</link>
+      <link>/e-handel/post/starka-foretag/</link>
       <pubDate>Mon, 30 Mar 2015 22:25:49 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/starka-foretag/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage6.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/starka-foretag/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage6.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Det finns många anledningar för företag att expandera sin försäljning via e-handel. Många kunder vill ha förmågan att kunna betala antingen via sin dator, surfplatta eller mobilen. Många utgår dessutom från sökresultatet de får upp från internet när de funderar på att köpa en tjänt eller produkt. Genom att starta en onlinebutik ökar du kundservicen, tillgängligheten och det resulterar slutligen i en ökning för försäljningen. Även dessa fördelar ingår:&lt;/p&gt;
@@ -268,11 +268,11 @@ Men det finns en annan sida av myntet man inte får glömma, och det är nackdel
     
     <item>
       <title>Så kan mindre butiker konkurrera med giganterna</title>
-      <link>http://localhost:1313/e-handel/post/konkurrens/</link>
+      <link>/e-handel/post/konkurrens/</link>
       <pubDate>Mon, 30 Mar 2015 22:23:49 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/konkurrens/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage8.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/konkurrens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage8.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Den gränsen som fanns mellan E-handel och fysisk butik blir allt mindre. Det finns nu alternativet att påbörja ett köp av en produkt på nätet och sen avsluta i butik eller tvärtom. Det gör de mindre butikerna en möjlighet att överleva de stora företagen.&lt;/p&gt;
@@ -295,11 +295,11 @@ Men det finns en annan sida av myntet man inte får glömma, och det är nackdel
     
     <item>
       <title>Ny IT-Bubbla hotar ekonomin</title>
-      <link>http://localhost:1313/e-handel/post/it-bubbla/</link>
+      <link>/e-handel/post/it-bubbla/</link>
       <pubDate>Mon, 30 Mar 2015 22:17:45 +0200</pubDate>
       
-      <guid>http://localhost:1313/e-handel/post/it-bubbla/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage1.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>/e-handel/post/it-bubbla/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage1.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;IT-bubblan var en den största ekonomiska kris som någonsin inträffat E-handeln och den hade en global effekt. När E-handeln blev populärt under 1990-talet ville alla företag vara en del av det. Logiken var att man skulle vara så snabb som möjligt för att vara snabbast med en ny nisch. På det sättet blev man det företag som var mest igenkänt för den produkten. Företagen investerade enorma summor pengar för att den nya produkten skulle kunna växa snabbt.&lt;/p&gt;
