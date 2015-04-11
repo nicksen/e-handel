@@ -2,20 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-handel</title>
-    <link>/e-handel/</link>
+    <link>http://localhost:1313/e-handel/</link>
     <description>Recent content on E-handel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 30 Mar 2015 22:44:29 +0200</lastBuildDate>
-    <atom:link href="/e-handel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Apr 2015 20:45:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/e-handel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>E-handel – säkerhet och risker</title>
+      <link>http://localhost:1313/e-handel/post/sakerhet/</link>
+      <pubDate>Sat, 11 Apr 2015 20:45:35 +0200</pubDate>
+      
+      <guid>http://localhost:1313/e-handel/post/sakerhet/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage10.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Det finns många sätt att använda e-handel på men många tvivlar på dess säkerhet.  E-handel har blivit mer och mer populärt varje år dem senaste tio åren. Det finns flera olika alternativ att betala via internet, till exempel Paypal, Bitcoin, Kortbetalning, och såklart direkt via banken.&lt;/p&gt;
+
+&lt;p&gt;Betalningen utpekas ofta som en osäkerhet, åtminstone av konsumenter, och det är fullt begripligt. I en nätbutik träffas aldrig säljare och köpare och betalningen sker därför inte till en person.&lt;/p&gt;
+
+&lt;p&gt;Egentligen är det inte bara själva betalningen som man kan oroa sig för. Leveransen, nätbutikens del i avtalet som upprättas när konsumenten beställer en vara, är möjligen en ännu större osäkerhetsfaktor. Kommer jag att få varan när jag har betalat? Kommer jag att få den i tid?&lt;/p&gt;
+
+&lt;p&gt;En risk som kanske förbises av många, och som också är svår att bedöma, är nätbutikernas hantering av kundernas personliga information. Det är dessvärre tämligen vanligt att en nätbutik har full koll på säkra betalningsmetoder och har pålitliga system för dem, men slarvar med att skydda själva kundinformationen.&lt;/p&gt;
+
+&lt;p&gt;Visserligen handlar den här risken inte så mycket om att förlora pengar, men det är en högst påtaglig risk att information om inköp och köpmönster läcker ut, och det innebär en väsentlig kränkning av den personliga integriteten. Dessutom kan givetvis information som en persons namn, adress och personnummer användas så att ekonomisk skada kan uppstå.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Den fysiska affärshandeln är betydligt säkrare än E-handeln, skriver Henrik Rådman i sin artikel &amp;ldquo;E-handel som komplement till fysisk butik&amp;rdquo;. Han fortsätter med att skriva att när kunden får ta i produkten, känna, lukta och se så kan kunden säkerställa exakt vad det är han köper för något.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I Sverige när du beställer något genom E-handel så har du upp till fjorton dagar rätt att ångra ditt köp och i övriga EU-länder är det bara sju dagar ångerrätt. EU direktivet talar om för oss vilka regler som gäller vid distans E-handel.  Skulle du köpa något exempelvis från Tyskland när du själv bor i Sverige så gäller de svenska lagarna för ditt köp även om det vanligtvis är grundreglerna i landet där butiken finns.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Köper du en produkt utanför EU:s gränser gäller inga generella regler utan avtalets villkor som företaget ger dig som innehåller vilka rättigheter du och företaget har. Oftast brukar man inför internationella köp själv ta reda på frågor som ångerrätt, reklamationer, möjligheter samt hur lång tid säljaren har ansvaret för fel på varan.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tittar man på helheten så är chansen att du råkar ut för något vid ett e-handel köp rätt liten. Men det betyder inte att man kan bortse från risken helt och hållet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E-handelns framtid</title>
+      <link>http://localhost:1313/e-handel/post/framtid/</link>
+      <pubDate>Sat, 11 Apr 2015 20:45:25 +0200</pubDate>
+      
+      <guid>http://localhost:1313/e-handel/post/framtid/</guid>
+      <description>&lt;p&gt;E-handeln blir bara större och större och mer och mer företag expanderar sin försäljning via internet. I början var det bara elektronik, böcker och kläder inom e-handeln men företag expendrarar och vi ser nu att varor som, bygg, intreding och mat säljs ökar inom e-handel.&lt;/p&gt;
+
+&lt;p&gt;Detta kommer påverka handeln på flera sätts Man tror att detaljhandelytan kommer minska och fler företag kommer att samordna sig inom e-handel, under de senaste 10 åren så har handeln förändras enormt pågrund av e-handels tillväxt och  är säkert ingen gentemot vad som kommer att förändras i framtiden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Källa: E-barometern&lt;/p&gt;
+
+&lt;p&gt;Man kan se hur mycket e-handelns omsättning stiger per år hur hur det kommer att försätta stiga i fortsättande år. Från 1995-1997satsades det mycket pengar i e-handel och internet blev allt mer brett Sen så kom IT-kraschen  mellan 2000 - 2001 då många IT-företag gick i konkurs. Men snabbt efter krisen så byggde det upp igen och har sedan  2000  haft en stor ökning. E-handeln bildar circa 5 % av all detaljhandel idag I Sverige.&lt;/p&gt;
+
+&lt;p&gt;De mest gynnade E-handels branscherna just nu är som sagt böcker, elektronik och kläder. Konsumenter tycker om e-handeln just inom dessa branscher för att det är simpelt, snabbt, billgare  samt större utbud än i vanlig handel. Här kan  man se branchernas förändringsprocess inom e-handeln mellan 2011-2012, höga inom vissa brancher och lägre i andra.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram1.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Källa: E-barometer och SCB&lt;/p&gt;
+
+&lt;p&gt;E-handel ökar snabbt som drivs av en en ökad mognad av konsumenter, säljaren och tekniken. Konsumenterna brukar när det väl har provet E-handel forsätta göra så. Man får bättre pris, utbud och att det är så simpelt att när man väl provat det så forsätter man. Men säljaren måste också hålla vad det har lovet konsumenterna att leverera i tid och ha en bra hemsida är viktigt för alla som vill sälja via internet. Ju mer tekniken utvecklsa ju mer tillgång har konsumenterna och ju bättre affärer gör säljaren. Man kan handla på internet på sin mobil och dator eller din platta och säljaren kan göra billig reklam på sociala medier. Dessa faktorer är det som kommer att bestämma hur e-handeln kommr att utvecklas i framtiden.&lt;/p&gt;
+
+&lt;p&gt;Det är många faktorerer som ska räknas med när man pratar om e-handelns framtid. Priser har stor betydelse i e-handelns framtid på grund av eftersom det är lättare att hitta den billigaste varan när man nät handlar så måste företagen alltid hålla sig på så lågt pris som möjligt annars kommer konsumenten köpa varan från ett annat företag. Sajter som prisjakt och Price Runner gör detta väldigt jobbigt för alla säljare eftersom konsumenten kan kolla upp billigaste pris på bara några klick och om säljaren inte anpassar sig så kommer de inte få något sålt. En annan faktor är företagets utbud, det är lättare att ha ett stort utbud på sin näthandel till skillnad från vanlig handel där det är mer begränsad. För att kunna få mer köpare måste de alltså försöka ha större utbud än sina konkurrenter och sin egen affär. Bekvämlighet är den tredje och sista drivkraften bakom ökad näthandel och innebär För att ett företag ska lyckas med sin näthandel så måste de inte bara ha bra priser och utbud utan också ha bra service och bekvämlighet för kunden. Att köra hem varor är något som konsumenterna älskar både gamla så som unga. Men de får inte heller vara för höga priser för hemkörningen för då kommer kunden köpa från ett annat företag.&lt;/p&gt;
+
+&lt;p&gt;E-handeln växer som sagt i en rasande fart, allt fler konsumenter och företag använder e-handel för att göra affärer och detta driver e-handelns tillväxt. Mer och mer branscher öppnar upp för näthandel desto mer populärt blir det.&lt;/p&gt;
+
+&lt;p&gt;HUI Research har gjort framtidsscenarier som presenterar tre olika scenarier som e-handelns framtid kan se ut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/Diagram2.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Eftersom e-handel växer snabbare just nu än vad det någonsin gjort så är detta inte alls orimligt. Det kommer därtill utvecklas nya idéer inom teknik som kommer att föröka populäriteten ännu mer.&lt;/p&gt;
+
+&lt;p&gt;Om då näthandeln kommer att utvecklas i denna takt eller ännu mer så kommer enlig denna tabell att näthandeln står för 10% av den totala detaljhandeln som i kroner är circa 71 miljarder kronor år 2017. Sedan vid 2022 så kommer det så på ungefär 20% eller 151 miljarder kr som handlas på nätet istället för fysiska handeln.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4 expertutlåtanden om E-handelns problematik</title>
+      <link>http://localhost:1313/e-handel/post/expert/</link>
+      <pubDate>Sat, 11 Apr 2015 20:45:16 +0200</pubDate>
+      
+      <guid>http://localhost:1313/e-handel/post/expert/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage9.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I en intervju med fyra av Sveriges framgångsrika E-handel företagare fick alla ge svar på vad problematiken och vad förbättringspotentialen med dagens E-handel är. Alla ger sin synvinkel på vad deras uppfattning om E-handelns problematik är. Problem som inte nödvändigtvis kommer sätta stop för E-handeln men förhindrar den att blomstra.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Google är ett problem och en stor tillgång, deras marknadsandel kan vara lite skrämmande ibland och som e-handlare oavsett storlek så kommer oftast den mesta trafiken därifrån. Jobbar du inte med sökmarknadsföring så är risken väldigt stor att du inte kommer lyckas. - Anders Karlsson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Google som är den största sökmotorn i världen är också den nära alla använder. Det Anders Karlsson menar är att det blir till ett problem med bara en sökmotor och det vore bättre med flera. Med flera sökmotorer blir det en mer nyanserad sökning.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Det är att det går för sakta. För att vara en framtidsbransch händer alldeles för lite. Jag hoppas vi får se en acceleration av innovation närmsta åren! - Anton Johansson.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trots den otroligt snabbt växande E-handeln så är det alldeles för lite nya idéer, Antons förhoppningar är att det kommer fler trender och alternativ för E-handel.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Pengar och kompetens. Mer pengar måste tillföras genom riskapital m.fl Sverige måste satsa mycket mycket mer på e-handelsutbildningar på på yrkeshögskolenivå och universitets/forskningsnivå och att vi som är intressenter till e-handeln måste samarbeta mycket mer för att tillsammans utveckla e-handeln till nya höjder.  - Arne Andersson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; Mer kunskap och mer samarbete mellan E-handel företagen är Arnes framtidsmål. Ger man möjligheten till mer kunskap om E-handeln kommer den att bli bättre och ge bättre villkor för kunderna.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ännu en gång, frakt och leverans. Många utlämningsställen är översvämmade under julen och kunderna får stå i långa köer för att hämta sina paket. Om man vill ha hemleverans måste man ibland ta ledigt från jobbet för att kunna ta emot paket. Det behövs fler alternativ, och jag tror att kunderna är beredda att betala för det.
+Betallösningar har gått igenom många stora förändringar de senaste åren, och jag hoppas att logistikbranschen kommer göra detsamma nu. - Louise Ahokas&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Louise tar upp problematiken med tidsbristen hos många som jobbar eller studerar, det är viktigt för E-handeln att man lär sig jobba runt det.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com&#39;s idémaskin</title>
-      <link>/e-handel/post/amazon/</link>
+      <link>http://localhost:1313/e-handel/post/amazon/</link>
       <pubDate>Mon, 30 Mar 2015 22:44:29 +0200</pubDate>
       
-      <guid>/e-handel/post/amazon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage4.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/amazon/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage4.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Amazon.com startades som en webbsida som sålde endast böcker. Vad som började som en internetleverantör för &amp;ldquo;bok ugglor&amp;rdquo; eskalerade till ett gigantiskt utbud av allt en konsument kan tänka sig behöva. Går det att leverera på ett smidigt sätt så har Amazon det i en av deras lagerlokaler. Amazon erbjuder andra företag att sälja sina produkter på deras webbsida i utbyte mot en summa pengar. Det som gjort Amazon så framgångsrikt är VD:n Jeff Bezos. Jeff Bezos följer det berömda citatet &amp;ldquo;Kunden har alltid rätt&amp;rdquo; som en religion. Det sägs att under mötena med cheferna lämnar han en stol tom och säger &amp;ldquo;Här sitter kunden, den viktigaste personen i rummet.&amp;rdquo;&lt;/p&gt;
@@ -34,11 +144,11 @@
     
     <item>
       <title>E-handeln är en generationsfråga</title>
-      <link>/e-handel/post/generationsfraga/</link>
+      <link>http://localhost:1313/e-handel/post/generationsfraga/</link>
       <pubDate>Mon, 30 Mar 2015 22:32:30 +0200</pubDate>
       
-      <guid>/e-handel/post/generationsfraga/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage3.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/generationsfraga/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage3.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;För många personer är det svårt att få ihop livspusslet, och det gäller kanske framförallt barnfamiljer. Att kunna handla när det passar är det som flest konsumenter säger att de använder E-handel för. En tidig morgon på företaget Sendus förklarar Nicklas Moberg att dem mindre typer av affärer (fysiska) kommer slås ner av de större kedjorna, d.v.s. El-Giganten, Webbhallen och Clas Ohlsson. Alla dem här lite större magasinen tidningarna, som &amp;ldquo;PC för alla&amp;rdquo;, lägger ner sina papperskopior och kör bara på nätet. Så får man prenumerera så istället. Tidningsläsarna går ner, mer används på nätet.&lt;/p&gt;
@@ -59,11 +169,11 @@
     
     <item>
       <title>E-handeln ger bättre möjligheter för miljön</title>
-      <link>/e-handel/post/miljo/</link>
+      <link>http://localhost:1313/e-handel/post/miljo/</link>
       <pubDate>Mon, 30 Mar 2015 22:29:25 +0200</pubDate>
       
-      <guid>/e-handel/post/miljo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage5.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/miljo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage5.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;E handel är på stor framgång just nu. Mer och mer konsumenter börjar se fördelarna med att göra sina affärerar från internet från både lokala och internationella säljare. Företagen som säljer får en större marknad och mer kunder och vi konsumenter får bättre utbud och tillgång till säljare. Men det är inte bara positiva effekter med e-handel. Hur bra är e-handel egentligen för miljön? Detta beror på såklart vilken vinkel man ser det ifrån och vilken sorts e-handel man egentligen menar.&lt;/p&gt;
@@ -110,11 +220,11 @@ Det bästa svaret man kan ge på frågan om e-handel har någon negativ påverka
     
     <item>
       <title>De starka företagen syns via E-handeln</title>
-      <link>/e-handel/post/starka-foretag/</link>
+      <link>http://localhost:1313/e-handel/post/starka-foretag/</link>
       <pubDate>Mon, 30 Mar 2015 22:25:49 +0200</pubDate>
       
-      <guid>/e-handel/post/starka-foretag/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage6.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/starka-foretag/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage6.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Det finns många anledningar för företag att expandera sin försäljning via e-handel. Många kunder vill ha förmågan att kunna betala antingen via sin dator, surfplatta eller mobilen. Många utgår dessutom från sökresultatet de får upp från internet när de funderar på att köpa en tjänt eller produkt. Genom att starta en onlinebutik ökar du kundservicen, tillgängligheten och det resulterar slutligen i en ökning för försäljningen. Även dessa fördelar ingår:&lt;/p&gt;
@@ -158,11 +268,11 @@ Men det finns en annan sida av myntet man inte får glömma, och det är nackdel
     
     <item>
       <title>Så kan mindre butiker konkurrera med giganterna</title>
-      <link>/e-handel/post/konkurrens/</link>
+      <link>http://localhost:1313/e-handel/post/konkurrens/</link>
       <pubDate>Mon, 30 Mar 2015 22:23:49 +0200</pubDate>
       
-      <guid>/e-handel/post/konkurrens/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage8.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/konkurrens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage8.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Den gränsen som fanns mellan E-handel och fysisk butik blir allt mindre. Det finns nu alternativet att påbörja ett köp av en produkt på nätet och sen avsluta i butik eller tvärtom. Det gör de mindre butikerna en möjlighet att överleva de stora företagen.&lt;/p&gt;
@@ -185,11 +295,11 @@ Men det finns en annan sida av myntet man inte får glömma, och det är nackdel
     
     <item>
       <title>Ny IT-Bubbla hotar ekonomin</title>
-      <link>/e-handel/post/it-bubbla/</link>
+      <link>http://localhost:1313/e-handel/post/it-bubbla/</link>
       <pubDate>Mon, 30 Mar 2015 22:17:45 +0200</pubDate>
       
-      <guid>/e-handel/post/it-bubbla/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/e-handel/e-handel/img/reportage1.jpg&#34; alt=&#34;&#34; /&gt;
+      <guid>http://localhost:1313/e-handel/post/it-bubbla/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/e-handel/e-handel/img/reportage1.jpg&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;IT-bubblan var en den största ekonomiska kris som någonsin inträffat E-handeln och den hade en global effekt. När E-handeln blev populärt under 1990-talet ville alla företag vara en del av det. Logiken var att man skulle vara så snabb som möjligt för att vara snabbast med en ny nisch. På det sättet blev man det företag som var mest igenkänt för den produkten. Företagen investerade enorma summor pengar för att den nya produkten skulle kunna växa snabbt.&lt;/p&gt;
